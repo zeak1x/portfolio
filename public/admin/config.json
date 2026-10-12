@@ -1,7 +1,8 @@
 {
-  "repo": "REPLACED_AT_PROVISION",
+  "repo": "zeak1x/portfolio",
   "branch": "main",
   "authBaseUrl": "https://auth.usegesso.com",
   "host": "netlify",
-  "formEndpoint": ""
+  "formEndpoint": "",
+  "gessoVersion": "0.43.3"
 }
